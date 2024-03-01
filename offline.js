@@ -1,0 +1,30 @@
+﻿{
+	"version": 1709262879,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/bgame-sheet0.png",
+		"images/pswt-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite8-sheet0.png",
+		"images/tembakanremovebgpreview-sheet0.png",
+		"images/biruremovebgpreview-sheet0.png",
+		"images/batyremovebgpreview-sheet0.png",
+		"images/ledakremovebgpreview-sheet0.png",
+		"images/particles7.png",
+		"images/sprite10-sheet0.png",
+		"images/berdarah-sheet0.png",
+		"images/sprite13-sheet0.png",
+		"images/sprite14-sheet0.png",
+		"images/sprite16-sheet0.png",
+		"images/sprite19-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
